@@ -44,20 +44,5 @@ CodeAlpha_Portfolio-Site-/
 └── README.md        # Documentation & deployment guide
 ```
 
----
-
-## 🌐 Deploying to GitHub Pages
-
-1. Go to your repository on GitHub: `https://github.com/Shubhamwadhe111/CodeAlpha_Portfolio-Site-`
-2. Click **Settings** (top menu bar).
-3. On the left sidebar under *Code and automation*, click **Pages**.
-4. Under **Build and deployment** > **Branch**:
-   - Choose `main` branch.
-   - Choose `/ (root)` folder.
-   - Click **Save**.
-5. Within 1–2 minutes, your website will be live at:
-   `https://shubhamwadhe111.github.io/CodeAlpha_Portfolio-Site-/`
-
----
 
 © 2026 **Shubham Anantkumar Wadhe**. Built with passion for Artificial Intelligence & Software Craftsmanship.
